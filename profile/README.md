@@ -1,8 +1,7 @@
 Bem-vindo a página do Chronos no GitHub, sinta-se a vontade para explorar nossos repositórios! 🧑‍💻
 
 # Sobre o Chronos
-
-O Chronos é uma ferramenta para criação de quadros e diagramas, com suporte a colaboração em tempo real e de código aberto, pensada para auxiliar na organização criativa de ideias.
+O Chronos é uma ferramenta para criação de quadros e diagramas, com suporte a colaboração em tempo real e de código aberto, pensada para auxiliar na organização criativa de ideias. No ano de 2025 concluímos nosso curso de Desenvolvimento de Sistemas integrado ao Ensino Médio na Escola Técnica Estadual Professora Anna de Oliveira Ferraz, este é o nosso TCC (Trabalho de Conclusão de Curso).
 
 Confira nossa [Wiki](https://chronos-take-your-time.github.io/wiki/) para mais informações.
 
